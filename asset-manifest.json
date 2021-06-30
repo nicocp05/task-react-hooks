@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/task-react-hooks/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/task-react-hooks/static/js/main.09189b1b.chunk.js",
+    "main.js.map": "/task-react-hooks/static/js/main.09189b1b.chunk.js.map",
+    "runtime-main.js": "/task-react-hooks/static/js/runtime-main.529403fa.js",
+    "runtime-main.js.map": "/task-react-hooks/static/js/runtime-main.529403fa.js.map",
+    "static/css/2.8757ddda.chunk.css": "/task-react-hooks/static/css/2.8757ddda.chunk.css",
+    "static/js/2.4fa2da48.chunk.js": "/task-react-hooks/static/js/2.4fa2da48.chunk.js",
+    "static/js/2.4fa2da48.chunk.js.map": "/task-react-hooks/static/js/2.4fa2da48.chunk.js.map",
+    "static/js/3.04ec80fa.chunk.js": "/task-react-hooks/static/js/3.04ec80fa.chunk.js",
+    "static/js/3.04ec80fa.chunk.js.map": "/task-react-hooks/static/js/3.04ec80fa.chunk.js.map",
+    "index.html": "/task-react-hooks/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "/task-react-hooks/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/task-react-hooks/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4fa2da48.chunk.js.LICENSE.txt": "/task-react-hooks/static/js/2.4fa2da48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529403fa.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.4fa2da48.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.09189b1b.chunk.js"
+  ]
+}
