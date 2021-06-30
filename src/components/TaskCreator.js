@@ -13,8 +13,8 @@ export default function TaskCreator(props) {
 
     return (
         <div className="my-1">
-            <input type="text" className="form-control" value={newTaskName} onChange={updateNewTaskValue} />
-            <button className="btn btn-primary mt-1" onClick={createNewTask}>Add</button>
+            <input type="text" className="form-control" style={{width: "300px"}} value={newTaskName} onChange={updateNewTaskValue} placeholder="Write task" />
+            <button className="btn btn-primary mt-1" onClick={createNewTask}>Add task</button>
         </div>
     )
 }
